@@ -6,3 +6,5 @@ fromage
 vinaigre
 Patate
 Fraise
+Croutons
+Pomme de foin
